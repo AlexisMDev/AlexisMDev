@@ -9,7 +9,7 @@
 
 ---
 
-## 🇫🇷 À propos
+## À propos
 
 Développeur full-stack avec plus de 6 ans d'expérience dans la conception d'applications web performantes et innovantes.
 
@@ -26,29 +26,7 @@ Mon objectif : **créer des applications web intuitives, évolutives et robustes
 
 ---
 
-<h1 align="center">Hi 👋, I'm Alexis</h1>
-<h3 align="center">Creative web developer with a focus on performance and innovation</h3>
-
----
-
-## 🇬🇧 About me
-
-Full-stack web developer with over 6 years of experience in building high-performing, innovative web applications.
-
-- 💻 Skilled in **front-end development** (React, JavaScript, Bootstrap) and **back-end** (Node.js, Express JS, PHP).
-- 🐳 Passionate about **DevOps**, I use Docker to manage my environments and automate deployments.
-
-My goal: **create intuitive, scalable, and robust web applications**, integrating design principles and performance.
-
----
-
-## ⚙️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,nodejs,express,docker,git,github,vscode,linux" />
-
----
-
-## 📊 GitHub Stats
+## 📈 Statistiques GitHub
 
 ![AlexisMDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexisMDev&show_icons=true&theme=tokyonight&hide_title=true)
 
@@ -56,4 +34,4 @@ My goal: **create intuitive, scalable, and robust web applications**, integratin
 
 ---
 
-<p align="center">Merci pour la visite • Thanks for stopping by 🙌</p>
+<p align="center">Merci pour la visite 🙌</p>
