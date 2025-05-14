@@ -15,8 +15,7 @@ Développeur full-stack avec plus de 6 ans d'expérience dans la conception d'ap
 
 - 💻 Expertise en **développement front-end** (React, JavaScript, Bootstrap) et **back-end** (Node.js, Express JS, PHP).
 - 🐳 Passionné par les aspects **DevOps**, j'utilise Docker pour la gestion de mes environnements et l’automatisation de mes déploiements.
-- 🚀 Projet en cours : **[Portfolio](https://github.com/AlexisMDev/portfolio)**, **[WonderKids](https://github.com/AlexisMDev/wonderkids-app)**.
-
+  
 Mon objectif : **créer des applications web intuitives, évolutives et robustes**, en intégrant des principes de design et de performance.
 
 ---
@@ -24,14 +23,6 @@ Mon objectif : **créer des applications web intuitives, évolutives et robustes
 ## ⚙️ Stack actuelle
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,nodejs,express,docker,git,github,vscode,linux" />
-
----
-
-## 📌 Projets
-
-- [🚀 **Portfolio**](https://github.com/AlexisMDev/portfolio)    
-- [🧠 **WonderKids**](https://github.com/AlexisMDev/wonderkids-app) — Application full-stack Node.js + React + Docker  
-- [🔧 Autres projets à venir…]
 
 ---
 
@@ -46,7 +37,6 @@ Full-stack web developer with over 6 years of experience in building high-perfor
 
 - 💻 Skilled in **front-end development** (React, JavaScript, Bootstrap) and **back-end** (Node.js, Express JS, PHP).
 - 🐳 Passionate about **DevOps**, I use Docker to manage my environments and automate deployments.
-- 🚀 Currently working on **[Portfolio](https://github.com/AlexisMDev/portfolio)**, **[WonderKids](https://github.com/AlexisMDev/wonderkids-app)**.
 
 My goal: **create intuitive, scalable, and robust web applications**, integrating design principles and performance.
 
@@ -55,14 +45,6 @@ My goal: **create intuitive, scalable, and robust web applications**, integratin
 ## ⚙️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,nodejs,express,docker,git,github,vscode,linux" />
-
----
-
-## 📌 Featured Projects
-
-- [🚀 **Portfolio**](https://github.com/AlexisMDev/portfolio)  
-- [🧠 **WonderKids**](https://github.com/AlexisMDev/wonderkids-app) — Full-stack app with Node.js, React, and Docker  
-- [🛠️ Mini tools & experiments coming soon…]
 
 ---
 
