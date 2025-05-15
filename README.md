@@ -22,7 +22,7 @@ Mon objectif : **créer des applications web intuitives, évolutives et robustes
 
 ## ⚙️ Stack actuelle
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,nodejs,express,docker,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwindcss,bootstrap,php,nodejs,express,mysql,postgresql,docker,git,github,vscode,linux" />
 
 ---
 
