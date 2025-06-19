@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, moi c'est Alexis</h1>
-<h3 align="center">Développeur web créatif avec un goût prononcé pour l'innovation et la performance</h3>
+<h3 align="center">Développeur full stack créatif avec un goût prononcé pour l'innovation et la performance</h3>
 
 <p align="center">
   <a href="https://dev-alexismartin.fr" target="_blank">🌐 Portfolio</a> •
