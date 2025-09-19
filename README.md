@@ -13,7 +13,7 @@
 
 Développeur full-stack avec plus de 6 ans d'expérience dans la conception d'applications web performantes et innovantes.
 
-- 💻 Expertise en **développement front-end** (React, JavaScript, Bootstrap) et **back-end** (Node.js, Express JS, PHP).
+- 💻 Expertise en **développement front-end** (React, Angular, JavaScript, Bootstrap, Tailwind) et **back-end** (Node.js, Express JS, PHP).
 - 🐳 Passionné par les aspects **DevOps**, j'utilise Docker pour la gestion de mes environnements et l’automatisation de mes déploiements.
   
 Mon objectif : **créer des applications web intuitives, évolutives et robustes**, en intégrant des principes de design et de performance.
