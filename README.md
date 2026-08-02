@@ -29,6 +29,7 @@ Mon objectif : **créer des applications web intuitives, évolutives et robustes
 ## 📈 Statistiques GitHub
 
 ![AlexisMDev's GitHub Stats](./profile/stats.svg)
+
 ![Top Langs](./profile/top-langs.svg)
 
 ---
