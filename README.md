@@ -28,9 +28,8 @@ Mon objectif : **créer des applications web intuitives, évolutives et robustes
 
 ## 📈 Statistiques GitHub
 
-![AlexisMDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexisMDev&show_icons=true&theme=tokyonight&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisMDev&layout=compact&theme=tokyonight)
+![AlexisMDev's GitHub Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 ---
 
